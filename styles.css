@@ -1,8 +1,8 @@
 /*  your css code here. If applicable */
-.d1{
+.item{
 	background-color:white;
 }
-.d2{
-	margin-top:10px;
-	background-color:white;
+.author{
+	text-align:right;
+	text-style:italic;
 }
