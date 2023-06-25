@@ -1,8 +1,14 @@
 /*  your css code here. If applicable */
+.container{
+	background-color:#f5f5f5;
+	padding:20px;
+}
 .item{
 	background-color:white;
+	border: 1px solid g;
+	margin-bottom:10px
 }
 .author{
 	text-align:right;
-	text-style:italic;
+	font-style:italic;
 }
